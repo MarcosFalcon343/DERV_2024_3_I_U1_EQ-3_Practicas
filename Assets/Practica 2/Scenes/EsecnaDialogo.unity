@@ -287,7 +287,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b104070eae24184bac8683d96e93993, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  charla: []
+  charla:
+  - nombre: 
+    mensaje: 
+    imagen: {fileID: 0}
   nombre: {fileID: 189818449}
   mensaje: {fileID: 1206580218}
   foto: {fileID: 1402293092}
