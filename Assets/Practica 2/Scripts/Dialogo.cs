@@ -20,7 +20,7 @@ public class Dialogo : MonoBehaviour
     
     int mensajeActual = 0;
 
-        void actualizaMensaje(){
+    void actualizaMensaje(){
         nombre.text = charla[mensajeActual].nombre;
         mensaje.text = charla[mensajeActual].mensaje;
         foto.sprite = charla[mensajeActual].imagen;

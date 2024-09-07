@@ -30,6 +30,7 @@ public class CambiarEscenas : MonoBehaviour
                     cambioEscena(0);
                     break;
             }
+            
         }
     }
 
